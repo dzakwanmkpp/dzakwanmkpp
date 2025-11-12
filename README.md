@@ -1,4 +1,4 @@
-<!-- 🌟 Dzakwan MKPP – Final GitHub Profile README 🌟 -->
+<!-- 🌟 Dzakwan MKPP – Final GitHub Profile README (Clickable Buttons Version) 🌟 -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1E90FF,100:9370DB&height=200&section=header&text=Dzakwan%20MKPP&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38"/>
@@ -39,9 +39,17 @@
 ---
 
 ### 📫 Kontak  
-✉️ [dzakwanmkpp@gmail.com](mailto:dzakwanmkpp@gmail.com)  
-🔗 [LinkedIn – Dzakwan Muhammad Khairan Putra Purnama](https://www.linkedin.com/in/dzakwan-muhammad-khairan-putra-purnama-639743321/)  
-📸 [Instagram – @dzakwan_mkpp](https://www.instagram.com/dzakwan_mkpp?igsh=ZTUybDF0cTFxZnJi)
+<p align="center">
+  <a href="mailto:dzakwanmkpp@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dzakwan-muhammad-khairan-putra-purnama-639743321/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/dzakwan_mkpp?igsh=ZTUybDF0cTFxZnJi">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 ---
 
