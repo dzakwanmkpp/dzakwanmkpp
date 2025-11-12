@@ -46,8 +46,9 @@ Eksperimen kompresi gambar menggunakan algoritma Huffman, serta analisis jumlah 
 ---
 
 ### 📫 Kontak
+### 📫 Kontak  
 ✉️ [dzakwanmkpp@gmail.com](mailto:dzakwanmkpp@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/dzakwanmkpp)  
-📸 [Instagram](https://www.instagram.com/dzakwanmkpp)
+🔗 [LinkedIn – Dzakwan Muhammad Khairan Putra Purnama](https://www.linkedin.com/in/dzakwan-muhammad-khairan-putra-purnama-639743321/)  
+📸 [Instagram – @dzakwan_mkpp](https://www.instagram.com/dzakwan_mkpp?igsh=ZTUybDF0cTFxZnJi)  
 
 > *"Code with clarity. Build with purpose."*
