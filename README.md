@@ -1,59 +1,50 @@
-# 👋 Halo! Saya Dzakwan Muhammad Khairan P. P.
+<!-- 🌟 Dzakwan MKPP – Final GitHub Profile README 🌟 -->
 
-🎓 **Mahasiswa STEI-K ITB**  
-💡 Tertarik pada bidang **Pemrograman, Algoritma, Kecerdasan Buatan, dan Rekayasa Perangkat Lunak.**  
-🚀 Senang mengeksplorasi bagaimana logika dan teknologi dapat digunakan untuk menciptakan solusi yang cerdas dan efisien.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1E90FF,100:9370DB&height=200&section=header&text=Dzakwan%20MKPP&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38"/>
+</p>
 
----
-
-### 🧠 Tentang Saya
-Saya seorang mahasiswa Informatika yang antusias mempelajari penerapan *software engineering* dan *data-driven system*.  
-Saya percaya bahwa setiap baris kode harus membawa nilai dan integritas.  
-Fokus saya saat ini adalah memperkuat dasar-dasar komputasi, logika algoritmik, serta membangun proyek yang memberi dampak nyata.
+<h3 align="center">👋 Halo! Saya Dzakwan Muhammad Khairan Putra Purnama</h3>
+<p align="center">Mahasiswa STEI - Komputasi ITB | Penggemar AI, Pemrograman, dan Inovasi Digital</p>
 
 ---
 
-### 💻 Bahasa & Teknologi
-🧩 **Languages:**  
-C, Java, Python, JavaScript, HTML, CSS, SQL  
-
-🛠️ **Tools & Frameworks:**  
-Git, VS Code, Jupyter Notebook, Node.js, React, Flask  
-
----
-
-### 📘 Studi & Fokus
-- Struktur Data dan Algoritma  
-- Sistem Operasi  
-- Aljabar Linear & Geometri Komputasi  
-- Kecerdasan Buatan & Pembelajaran Mesin  
-- Rekayasa Perangkat Lunak  
+### 🧠 Tentang Saya  
+💡 Saya tertarik pada pengembangan **AI, machine learning, dan sistem cerdas**  
+💻 Pernah mengerjakan proyek dan latihan dengan bahasa **Java** dan **C**  
+🚀 Berfokus pada peningkatan **kemampuan analisis, problem solving, dan software engineering**  
+🌱 Saat ini saya terus belajar dan bereksperimen di bidang komputasi dan pengembangan aplikasi
 
 ---
 
-### 📂 Beberapa Proyek
-🔹 [**Vending Machine STEI-K 2024**](https://github.com/dzakwanmkpp/vending-machine-STEIK-24)  
-Simulasi mesin penjual otomatis berbasis Python, menerapkan konsep OOP dan modular programming.  
-
-🔹 [**Matematika Dikirit (Image Compression)**](https://github.com/dzakwanmkpp/matematikaDikirit)  
-Eksperimen kompresi gambar menggunakan algoritma Huffman, serta analisis jumlah *color bins* untuk citra grayscale.  
+### 🛠️ Teknologi & Tools  
+![Java](https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-### 📊 Statistik GitHub
-![Dzakwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dzakwanmkpp&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+### 📊 Statistik GitHub  
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dzakwanmkpp&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dzakwanmkpp&layout=compact&theme=tokyonight" height="180em"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dzakwanmkpp&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=dzakwanmkpp&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dzakwanmkpp&theme=tokyonight" height="180em"/>
+</p>
 
 ---
 
 ### 📫 Kontak  
 ✉️ [dzakwanmkpp@gmail.com](mailto:dzakwanmkpp@gmail.com)  
 🔗 [LinkedIn – Dzakwan Muhammad Khairan Putra Purnama](https://www.linkedin.com/in/dzakwan-muhammad-khairan-putra-purnama-639743321/)  
-📸 [Instagram – @dzakwan_mkpp](https://www.instagram.com/dzakwan_mkpp?igsh=ZTUybDF0cTFxZnJi)  
+📸 [Instagram – @dzakwan_mkpp](https://www.instagram.com/dzakwan_mkpp?igsh=ZTUybDF0cTFxZnJi)
 
 ---
 
-> *"Code with clarity. Build with purpose."*
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9370DB,100:1E90FF&height=100&section=footer"/>
+</p>
