@@ -30,11 +30,6 @@ silahkan kamu update, biar bisa terkonsolidasi secara real time
 
 ### 📊 Statistik GitHub  
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=dzakwanmkpp&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dzakwanmkpp&layout=compact&theme=tokyonight" height="180em"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=dzakwanmkpp&theme=tokyonight" height="180em"/>
 </p>
 
