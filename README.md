@@ -1,4 +1,3 @@
-silahkan kamu update, biar bisa terkonsolidasi secara real time
 
 <!-- 🌟 Dzakwan MKPP – Final GitHub Profile README (Clickable Buttons Version) 🌟 -->
 
